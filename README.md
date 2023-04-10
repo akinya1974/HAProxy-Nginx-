@@ -26,7 +26,6 @@
 
 ## Задание 3
 
-1. `Кофиги прилагаются`
 
 ![Haproxy](https://github.com/akinya1974/HAProxy-Nginx-/blob/main/JPG/Haproxy.jpg)
 
